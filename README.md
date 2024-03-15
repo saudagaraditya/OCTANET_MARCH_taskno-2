@@ -1,1 +1,1 @@
-# Created To DO list app Using HTML,CSS and JAVASCRIPT.
+# Created To Do list app Using HTML,CSS and JAVASCRIPT.
